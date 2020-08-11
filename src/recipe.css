@@ -1,0 +1,11 @@
+.recipebox{
+    border-radius: 10px;
+    box-shadow:0px 5px 20px rgb(71, 71, 71 );
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-image: linear-gradient(to right, #43e97b 0%, #c4e744 100%);
+    min-width: 40%;
+}
